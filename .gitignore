@@ -1,0 +1,5 @@
+data/
+model.p
+data.pickle
+check_hands.py
+landmark_visual.py
